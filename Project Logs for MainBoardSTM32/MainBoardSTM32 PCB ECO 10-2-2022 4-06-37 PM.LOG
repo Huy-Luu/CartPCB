@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=12V Pin=C2-1
+Added Member To Class: ClassName=MainBoardSTM32 Member=Component C1 Cap Pol
+Added Member To Class: ClassName=MainBoardSTM32 Member=Component C2 Cap Pol
+Added Member To Class: ClassName=MainBoardSTM32 Member=Component C3 Cap Pol
+Added Member To Class: ClassName=MainBoardSTM32 Member=Component C4 Cap Pol
+Added Member To Class: ClassName=MainBoardSTM32 Member=Component C5 Cap Pol
+Added Member To Class: ClassName=MainBoardSTM32 Member=Component C6 Cap Pol

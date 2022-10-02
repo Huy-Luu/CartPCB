@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=Designator37-1
+Removed Pin From Net: NetName=GND Pin=Designator38-1
+Removed Pin From Net: NetName=GND Pin=Designator39-1
+Added Pin To Net: NetName=NetC7_2 Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=R3-2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=FB6V
+Added Room: Name=MainBoardSTM32
